@@ -1,4 +1,4 @@
-#BFS-Breadth-first search
+#BFS-Breadth-first search-Saju Ahmed
 import numpy as np
 
 #define start & goal state
